@@ -1,5 +1,4 @@
 export default {
-
     plus : function (a, b) {
         return a + b;
     },
@@ -12,13 +11,4 @@ export default {
         console.log(text);
         return;
     },
-
-/*    show minus(a, b) {
-        return a - b;
-    }
-
-    function show(text) {
-        console.log(text);
-        return;
-    }*/
 }
